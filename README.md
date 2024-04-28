@@ -15,7 +15,7 @@ How to run the application:
 
 Demonstration video : -
 GitHub repository link :- 
-Vercel deployment link : - 
+Vercel deployment link : -  https://hyggex-assignment-eight.vercel.app/
 Your contact details
 Email : jayrane53@gmail.com
 
