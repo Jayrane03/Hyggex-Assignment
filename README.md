@@ -13,9 +13,13 @@ How to run the application:
 3 - npm install (install require npm packages)
 4 - npm run dev 
 
+
 Demonstration video : -
+
 GitHub repository link :- 
+
 Vercel deployment link : -  https://hyggex-assignment-eight.vercel.app/
+
 Your contact details
 Email : jayrane53@gmail.com
 
