@@ -14,9 +14,9 @@ How to run the application:
 4 - npm run dev 
 
 
-Demonstration video : -
+Demonstration video : - https://drive.google.com/file/d/1Ut10oVLFO26ZDldt-_awJS_ehknoM_8R/view?usp=drive_link
 
-GitHub repository link :- 
+GitHub repository link :- https://github.com/Jayrane03/Hyggex-Assignment
 
 Vercel deployment link : -  https://hyggex-assignment-eight.vercel.app/
 
