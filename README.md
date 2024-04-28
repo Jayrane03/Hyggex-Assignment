@@ -7,11 +7,15 @@ Your task is to create a React application using Tailwind CSS that replicates th
 
 Figma Design Link : https://www.figma.com/file/Aj8hzPAAd25ViQ9GQGlZzI/Untitled-
 
+How to run the application:
+1 - Clone the Github Repositoray
+2 - cd Hyggex
+3 - npm install (install require npm packages)
+4 - npm run dev 
 
-
-Demonstration video
-GitHub repository link
-Vercel deployment link
+Demonstration video : -
+GitHub repository link :- 
+Vercel deployment link : - 
 Your contact details
 Email : jayrane53@gmail.com
 
